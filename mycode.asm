@@ -7,6 +7,7 @@ GT1 db 13,10,' Dai Hoc Cntt va Truyen Thong'
      db 13,10,' Khoa khoa hoc may tinh' 
      db 13,10,' ------------o0o-----------$' 
 GT2 db 'BAI TAP LON',0
+GT3 db 13,10,13,10,13,10,' Cac sinh vien thuc hien:' 
 db 13,10,' 1. Ninh Van Binh' 
       db 13,10,' 2. Vo Duc Tin'
       db 13,10,' 4. Huynh Huy Hoang' 
